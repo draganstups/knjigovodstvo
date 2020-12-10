@@ -28,13 +28,32 @@ h1,h2,h3,h4 {
   color: #ffd321;
 }
 .subheading {
-	font-size: 14px;
+	font-size: 16px;
 	font-weight: bold;
-	padding-bottom: 60px;
+  padding-bottom: 60px;
+  text-align: center;
+  margin: 0 30px;
+  letter-spacing: 0.2rem;
+  line-height: 30px;
+}
+.subheading2 {
+  margin: 0 25%;
+  padding-left: 10%;
+  padding-right: 10%;
+  font-size: 16px;
+	font-weight: bold;
+  padding-bottom: 60px;
+  text-align: center;
+  margin: 0 30px;
+  letter-spacing: 0.2rem;
+  line-height: 30px;
 }
 .bold {
   font-weight: bold;
   
+}
+.ped {
+  color: rgb(7, 7, 7);
 }
 
 p {
@@ -154,7 +173,7 @@ p {
 
 .test {
   background: #536976;
-  opacity: 0.3;
+  opacity: 0.4;
   position: absolute;
   top: 0;
   right: 0;
